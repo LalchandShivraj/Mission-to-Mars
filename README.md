@@ -12,7 +12,7 @@ Robin wants to add more polish to the web app being developed. She would like to
 
 
 ## Resources
-- Data Source: hawaii.sqlite
+- Data Source: various URLs to mars data
 - Software: Splinter, Beautiful Soup, MongoDb, Flask, Python, Jupyter, HTML, Bootstrap, CSS, VS Code 
 - Output: Mission_to_Mars_Challenge.ipynb, scraping.py, app.py, index.html 
 - BOOTSTRAP SCREEN PRINTS: Background_for_jumbotron_Bootstrap.png, Caption_added_to_right_of_image_using_Bootstrap.png'
